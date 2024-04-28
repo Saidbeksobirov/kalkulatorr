@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    align-items: center;
+    animation: normal;
+
+}
+
+
+.calculator {
+    background-color: black;
+    width: 500px;
+    max-width: 500px;
+    column-width: 500px;
+}
+
+.kiritish1 {
+    background-color: black;
+    
+}
+
+.javobi {
+    background-color: aliceblue;
+    
+}
+
+.name1 {
+    background-color: aqua;
+    top: 100px;
+}
